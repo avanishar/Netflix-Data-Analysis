@@ -44,3 +44,8 @@ The analysis highlights Netflix’s strategy focusing on short-format, recent co
 ---
 
 ## Project Structure
+Netflix-Data-Analysis/
+│
+├── netflix_data_analysis.ipynb # Jupyter Notebook with full EDA
+├── README.md # Project description and insights
+└── .gitignore # Ignore unnecessary files
